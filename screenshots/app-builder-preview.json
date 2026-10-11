@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Les idées du terrain",
+      "hasCanvas": false,
+      "bodyTextLen": 6646,
+      "bodyTextHash": "a7df02d25cb3f0f6d3a2821f661e0c3a95c6948e4de8acb72170d175aadca22e",
+      "bodyTextPrefix": "Les idées du terrain Carnet d'évolution des interventions · enre",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Les idées du terrain",
+      "hasCanvas": false,
+      "bodyTextLen": 6640,
+      "bodyTextHash": "b40c1ac0c90414211e09ec22175bd1c40c6e8c40c19aa3c3c741f3250ef20c89",
+      "bodyTextPrefix": "Les idées du terrain Carnet d'évolution des interventions · enre",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
